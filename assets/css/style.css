@@ -4852,3 +4852,8 @@ del {
 .switch-wrap {
     margin-bottom: 10px
 }
+.sub-list {
+      list-style-type: circle;
+      padding-left: 30px; /* Increased indentation */
+      margin-top: 10px;
+}
