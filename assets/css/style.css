@@ -272,6 +272,15 @@ li {
     color: #888
 }
 
+
+.sub-points{
+    padding-left: 40px;
+}
+
+.margin-subpoint{
+    margin-top: 40px;
+}
+
 #scrollUp {
     background: #f6cccc;
     height: 50px;
@@ -1717,8 +1726,8 @@ li {
 }
 
 .support-company-area .support-wrapper .left-content .support-caption p {
-    margin-bottom: 46px;
-    font-size: 15px
+    margin-bottom: 20px;
+    font-size: 16px
 }
 
 .support-company-area .support-wrapper .left-content .support-caption p.pera-top {
@@ -2537,7 +2546,8 @@ li {
 }
 
 .t-bg {
-    background: #00235b
+    background: #00235b;
+    margin-top: 60px;
 }
 
 .slick-initialized .slick-slide {
